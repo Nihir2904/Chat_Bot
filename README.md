@@ -1,5 +1,5 @@
 #                                                           Chat_Bot
-A simple chatbot created using Chatterbot library in python
+A simple chatbot created using chatterbot package in python
 
 Try it yourself:
 
